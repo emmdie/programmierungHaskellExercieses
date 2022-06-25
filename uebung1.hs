@@ -11,4 +11,4 @@ sumFac n m
 fibo :: Int -> Int
 fibo 0 = 1
 fibo 1 = 1
-fibo x = (fibo (x-1)) + (fibo (x-2))
+fibo x = (fibo (x-1)) + (fibo (x-2)) 
